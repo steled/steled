@@ -2,9 +2,9 @@
 
 - ❤️ I love to automate, currently focussing on Terraform
 - 🔭 I’m currently working on my HomeLab, consisting of:
-  - https://github.com/steled/rpi-bootstrap-terraform
+  - https://github.com/steled/homeserver-terraform
   - https://github.com/steled/terraformmodules
-  - https://github.com/steled/ubuntu-cloud-init
+  - https://github.com/steled/cloud-init
 
 ## 💻 Tech Stack:
 

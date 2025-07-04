@@ -2,9 +2,11 @@
 
 - ❤️ I love to automate, currently focussing on Terraform
 - 🔭 I’m currently working on my HomeLab, consisting of:
+  - https://github.com/steled/argocd-apps
+  - https://github.com/steled/cloud-init
+  - https://github.com/steled/homelab
   - https://github.com/steled/homeserver-terraform
   - https://github.com/steled/terraformmodules
-  - https://github.com/steled/cloud-init
 
 ## 💻 Tech Stack:
 

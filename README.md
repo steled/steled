@@ -5,7 +5,7 @@
   - https://github.com/steled/argocd-apps
   - https://github.com/steled/cloud-init
   - https://github.com/steled/homelab
-  - https://github.com/steled/homeserver-terraform
+  - https://github.com/steled/homelab-terraform
   - https://github.com/steled/terraformmodules
 
 ## 💻 Tech Stack:
